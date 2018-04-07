@@ -176,3 +176,6 @@
 [submodule "libraries/Kaleidoscope-LEDEffect-DigitalRain"]
 	path = libraries/Kaleidoscope-LEDEffect-DigitalRain
 	url = git@github.com:tremby/Kaleidoscope-LEDEffect-DigitalRain.git
+[submodule "libraries/Kaleidoscope-Emoji"]
+	path = libraries/Kaleidoscope-Emoji
+	url = git@github.com:jjochen/Kaleidoscope-Emoji.git
