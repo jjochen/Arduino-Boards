@@ -179,3 +179,6 @@
 [submodule "libraries/Kaleidoscope-Emoji"]
 	path = libraries/Kaleidoscope-Emoji
 	url = git@github.com:jjochen/Kaleidoscope-Emoji.git
+[submodule "libraries/Kaleidoscope-LangPack-German"]
+	path = libraries/Kaleidoscope-LangPack-German
+	url = git@github.com:jjochen/Kaleidoscope-LangPack-German.git
