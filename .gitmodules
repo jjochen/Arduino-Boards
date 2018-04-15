@@ -66,7 +66,7 @@
 	url = https://github.com/keyboardio/Kaleidoscope-LED-Stalker
 [submodule "libraries/Kaleidoscope-Ranges"]
 	path = libraries/Kaleidoscope-Ranges
-	url = https://github.com/keyboardio/Kaleidoscope-Ranges
+	url=git@github.com:jjochen/Kaleidoscope-Ranges.git
 [submodule "libraries/Kaleidoscope-Unicode"]
 	path = libraries/Kaleidoscope-Unicode
 	url = https://github.com/keyboardio/Kaleidoscope-Unicode
