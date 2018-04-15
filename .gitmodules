@@ -182,3 +182,6 @@
 [submodule "libraries/Kaleidoscope-LangPack-German"]
 	path = libraries/Kaleidoscope-LangPack-German
 	url = git@github.com:jjochen/Kaleidoscope-LangPack-German.git
+[submodule "libraries/Kaleidoscope-LEDToggle"]
+	path = libraries/Kaleidoscope-LEDToggle
+	url = git@github.com:jjochen/Kaleidoscope-LEDToggle.git
