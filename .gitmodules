@@ -185,3 +185,9 @@
 [submodule "libraries/Kaleidoscope-LEDToggle"]
 	path = libraries/Kaleidoscope-LEDToggle
 	url = git@github.com:jjochen/Kaleidoscope-LEDToggle.git
+[submodule "libraries/Time"]
+	path = libraries/Time
+	url = https://github.com/PaulStoffregen/Time.git
+[submodule "libraries/Kaleidoscope-Timekeeper"]
+	path = libraries/Kaleidoscope-Timekeeper
+	url = git@github.com:jjochen/Kaleidoscope-Timekeeper.git
